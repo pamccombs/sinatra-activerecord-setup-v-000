@@ -3,7 +3,6 @@ source "https://rubygems.org"
 
   gem 'sinatra'
   gem 'activerecord', '~> 5.2', '>= 5.2.3'
-  gem 'activerecord', '4.2.5'
   gem 'sinatra-activerecord'
   gem 'thin'
   gem 'require_all'
@@ -14,7 +13,6 @@ group :development do
     gem 'pry'
     gem 'tux'
     gem 'sqlite3', '1.4.0'
-    gem 'sqlite3', '(1.3.6)'
 end
     
 group :test do
