@@ -2,9 +2,7 @@
 source "https://rubygems.org"
 
   gem 'sinatra'
-<<<<<<< HEAD
   gem 'activerecord', '~> 5.2', '>= 5.2.3'
-=======
   gem 'activerecord', '4.2.5'
   gem 'sinatra-activerecord'
   gem 'thin'
