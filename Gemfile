@@ -6,7 +6,6 @@ source "https://rubygems.org"
   gem 'activerecord', '~> 5.2', '>= 5.2.3'
 =======
   gem 'activerecord', '4.2.5'
->>>>>>> 0c43aa36d17021900daa512dab6c58cf196ec618
   gem 'sinatra-activerecord'
   gem 'thin'
   gem 'require_all'
